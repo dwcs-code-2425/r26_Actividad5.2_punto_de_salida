@@ -7,8 +7,11 @@ cd api_libros
 # 🔹 2. Instalar las dependencias mínimas necesarias
 
 composer require orm
+
 composer require maker --dev
+
 composer require symfony/serializer-pack
+
 composer require --dev phpunit/phpunit
 
 # 🔹 Qué se instala realmente
