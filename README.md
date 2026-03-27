@@ -23,7 +23,7 @@ composer require --dev phpunit/phpunit
 
 # Configurar base de datos
 
-DATABASE_URL="mysql://root:abc123.@127.0.0.1:3306/api_librosp?serverVersion=8.0.40&charset=utf8mb4"
+DATABASE_URL="mysql://root:abc123.@127.0.0.1:3306/api_libros?serverVersion=8.0.40&charset=utf8mb4"
 
 # Crear la base de datos
 
