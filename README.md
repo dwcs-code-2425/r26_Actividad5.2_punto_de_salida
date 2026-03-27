@@ -1,6 +1,7 @@
 # 🔹 1. Crear proyecto con Composer (mínimo)
 
 composer create-project symfony/skeleton:"7.4.*" api_libros
+
 cd api_libros
 
 # 🔹 2. Instalar las dependencias mínimas necesarias
